@@ -1,0 +1,5 @@
+# Add gitignore rules
+.idea/
+*.iml
+*.xml
+ifood_df.csv
