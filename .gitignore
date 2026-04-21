@@ -1,5 +1,5 @@
-# Add gitignore rules
+# add gitignore rules
+.venv/
 .idea/
-*.iml
-*.xml
-ifood_df.csv
+__pycache__/
+*.csv

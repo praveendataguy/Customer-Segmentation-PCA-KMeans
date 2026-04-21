@@ -16,7 +16,7 @@ from sklearn.metrics import silhouette_score
 # ==========================================
 
 #Reading the data
-data = pd.read_csv('ifood_df.csv')
+data = pd.read_csv('data/ifood_df.csv')
 
 #Taking a look at the top 5 rows of the data
 print(data.head())
