@@ -13,7 +13,7 @@ In modern e-commerce and retail marketing, a "one-size-fits-all" approach leads 
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+## 🛠️ Tech Stack & Architecture:
 *   **Data Wrangling & Pipeline Execution:** `Pandas`, `NumPy`
 *   **Statistical Significance Testing:** `SciPy (Stats)` (`pointbiserialr`)
 *   **Unsupervised Machine Learning:** `Scikit-Learn` (`KMeans`, `StandardScaler`, `decomposition.PCA`, `silhouette_score`)
